@@ -1,0 +1,2 @@
+# kb
+Globres Knowledge Base
